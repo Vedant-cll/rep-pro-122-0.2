@@ -1,0 +1,31 @@
+body
+{
+	text-align: center;
+	background-color:rgb(87, 150, 231) ;
+	
+}
+span
+{
+	font-size: 14px;
+	color:rgb(53, 116, 63) ;
+	background-color:white;
+	border: 5px rgb(17, 17, 17) solid;
+}
+canvas
+{
+	background: rgb(252, 246, 246);
+	border-radius: 20px; 
+	border: 10px black solid;
+}
+
+h3{
+font-size: 32px;
+font-family: 'Mochiy Pop P One', sans-serif;
+font-family: 'Road Rage', cursive;
+font-family: 'Rowdies', cursive;
+color: rgb(53, 116, 63);
+
+background: rgb(252, 246, 246);
+	border-radius: 10px; 
+	border: 5px black solid;
+}
